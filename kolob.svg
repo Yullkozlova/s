@@ -1,0 +1,27 @@
+<svg style="height:500px; width:300px">
+      
+        <ellipse rx="20" ry="45" cx="100" cy="300" fill="orange" transform="rotate(-75, 150, 300)"></ellipse>
+        <ellipse rx="40" ry="15" cx="230" cy="420" fill="grey" fill-opacity="0.5"></ellipse>
+        <polygon points="130 330, 100 335, 115 355" fill="white"/>
+        <polygon points="260 285, 250 250, 230 275" fill="black" stroke="orange" stroke-width="3px"/>
+        <polygon points="210 285, 190 255, 180 295" fill="black" stroke="orange" stroke-width="3px"/>
+        <circle cx="230" cy="345" r="70" fill="orange"></circle>
+        <circle cx="220" cy="335" r="25" fill="white"></circle>
+        <circle cx="250" cy="335" r="25" fill="white"></circle>
+        <circle cx="255" cy="335" r="5" fill="black"></circle>
+        <circle cx="225" cy="335" r="5" fill="black"></circle>
+        <circle cx="235" cy="360" r="10" fill="black"></circle>
+        <ellipse rx="12" ry="7" cx="230" cy="385" fill="red"></ellipse>
+    </svg>
+<svg style="height:500px; width:300px">
+     <ellipse rx="40" ry="15" cx="230" cy="420" fill="grey" fill-opacity="0.5"></ellipse>
+     <circle cx="230" cy="345" r="70" fill="yellow"></circle>
+     <circle cx="200" cy="335" r="25" fill="white"></circle>
+     <circle cx="235" cy="335" r="25" fill="white"></circle>
+     <circle cx="200" cy="335" r="5" fill="black"></circle>
+     <circle cx="235" cy="335" r="5" fill="black"></circle>
+     <ellipse rx="7" ry="13" cx="220" cy="380" fill="red"></ellipse>
+
+    
+
+</svg>
